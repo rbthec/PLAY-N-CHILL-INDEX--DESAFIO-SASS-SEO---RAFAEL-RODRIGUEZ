@@ -1,0 +1,6 @@
+-Agregue la etiqueta de keywords y escribí palabras claves relacionadas directamente con mi sitio web
+-Agregue la etiqueta de descripción y escribí concretamente de que se trata mi pagina web
+-Cambie el título para que tuviera relación directa con la temática de la página 
+-Comprimí las imagenes para tener mejor carga y posicionamiento en la web 
+-todas las imagenes tienen nombres descriptivos con keywords relacionadas a la temática para tener mejor SEO
+-Los alts de todas las imagenes son descriptivos con keywords referentes a la imagen y la temática de videojuegos
